@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"Logic Gates "</string>
+    <string name="title_activity_and">andActivity</string>
+    <string name="title_activity_or">orActivity</string>
+    <string name="title_activity_not">notActivity</string>
+    <string name="title_activity_all_in_one">allInOneActivity</string>
+    <string name="first_variable">X</string>
+    <string name="second_variable">Y</string>
+    <string name="answer">Check</string>
+</resources>
