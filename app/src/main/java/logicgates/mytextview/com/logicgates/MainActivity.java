@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView gatesList;
 
     //added a line of comment
+    //second line of comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
